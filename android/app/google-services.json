@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386696223895",
+    "project_id": "sakhimandal-94f4f",
+    "storage_bucket": "sakhimandal-94f4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386696223895:android:61e402b890bc5c621cddd2",
+        "android_client_info": {
+          "package_name": "com.sm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386696223895-v99f2f2nitgpgm0bfjnk295usc0oisbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Nb5J7gEpon-utZSTqy7s4L94h9jGOKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386696223895-v99f2f2nitgpgm0bfjnk295usc0oisbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
