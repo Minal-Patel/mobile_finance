@@ -6,6 +6,7 @@ export const str = {
     ALREADY_ASSIGN : "type is assign another user",
     ENTER_VALID_DATA : "Please enter valid data....",
     USER_ADDED :"User added!",
+    LOAN_ADDES : "Loan successfully addes...",
     ERROR : "Error",
 
     //TextInput
@@ -22,6 +23,7 @@ export const str = {
     GROUP_COLLECTION : "Group",
     USERACCOUNT_COLLECTION : "UserAccount",
     ACCOUNT_COLLECTION : "Account",
+    LOAN_COLLECTION :"Loan",
 
     GROUP_NAME_FIELD : "Group_name",
     PHONE_FIELD : "Number",

@@ -20,6 +20,9 @@ const Loan = () =>{
             <TouchableOpacity onPress={()=>navigation.navigate("Addloan")}>
                 <Text>Add Loan</Text>
             </TouchableOpacity>
+            <TouchableOpacity onPress={()=>navigation.navigate("UserLoan")}>
+                <Text>User loan</Text>
+            </TouchableOpacity>
         </View>
     );
 }
