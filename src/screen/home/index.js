@@ -85,6 +85,7 @@ const Home = () => {
 
                 <View style={styles.container}>
 
+<Text>HEllllllo</Text>
                     <View style={styles.headerview}>
                         <View style={styles.topview}>
                             <TouchableOpacity onPress={() => navigation.openDrawer()}>
