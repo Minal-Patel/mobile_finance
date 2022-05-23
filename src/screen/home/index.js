@@ -82,7 +82,6 @@ const Home = () => {
         <LinearGradient colors={[background.purple, "#e7d1e8", "#efdaf0"]} style={{ flex: 1 }}>
 
             <SafeAreaView style={styles.safearea}>
-
                 <View style={styles.container}>
 
                     <View style={styles.headerview}>
